@@ -1,0 +1,5 @@
+echo 3.10.11 > .python-version
+
+git add .python-version
+git commit -m "Add Python version"
+git push
